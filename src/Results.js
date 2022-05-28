@@ -2,6 +2,7 @@ import React from "react";
 import Meaning from "./Meaning";
 import Phonetic from "./Phonetic";
 import "./Dictionary.css";
+import "./Results.css";
 
 export default function Result(props) {
   console.log(props.results);
