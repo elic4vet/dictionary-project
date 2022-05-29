@@ -3,12 +3,11 @@
 }
 
 .Dictionary section {
-  background: rgb(236, 227, 227);
-  padding: 30px;
+  padding: 40px;
+  background-color: white;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgb(0, 0, 0 /10%);
-  margin: 20px 0;
-  max-width: 200px;
+  margin-top: 10px;
 }
 
 .Dictionary input {
