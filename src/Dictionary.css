@@ -1,10 +1,11 @@
 .Dictionary {
   text-align: center;
+  background-color: #fffbf8;
 }
 
 .Dictionary section {
   padding: 40px;
-  background-color: white;
+  background-color: #fffbf8;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgb(0, 0, 0 /10%);
   margin-top: 10px;
