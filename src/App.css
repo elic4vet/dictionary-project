@@ -28,3 +28,7 @@ a {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.App input {
+  background-color: #fffbf8;
+}
