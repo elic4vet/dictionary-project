@@ -6,9 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a href="app.js">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />{" "}
-        </a>
+        <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
         <Dictionary
@@ -19,11 +17,19 @@ export default function App() {
 
       <footer className="App-footer">
         ✌️ This project was coded by{" "}
-        <a href="https://www.linkedin.com/in/elisavet-erkekoglou-80514b107/">
+        <a
+          href="https://www.linkedin.com/in/elisavet-erkekoglou-80514b107/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Elisabeth
         </a>
         👩‍💻 and it is{" "}
-        <a href="https://github.com/elic4vet/dictionary-project">
+        <a
+          href="https://github.com/elic4vet/dictionary-project"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced
         </a>
       </footer>
